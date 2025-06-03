@@ -4,7 +4,7 @@
 ## Objetivo do Programa
 O objetivo do programa é simular a criação de cartas do jogo Super Trunfo, com o tema cidades brasileiras. Neste primeiro nível, o foco é o cadastro e a exibição de duas cartas, onde o jogador insere manualmente os dados das cidades. O programa serve como base para funcionalidades futuras, como batalhas entre cartas e classificação por atributos.
 
-Estrutura dos Dados
+### Estrutura dos Dados
 O programa utiliza uma struct em C chamada CartaCidade para representar uma carta do Super Trunfo. Cada carta contém os seguintes atributos:
 Estado: Uma letra de A a H que representa um dos oito estados fictícios do jogo.
 Código da Carta: Uma combinação da letra do estado com um número de 01 a 04 (ex: A01, B03).
